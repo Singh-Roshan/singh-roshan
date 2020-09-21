@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Singh-Roshan/singh-roshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Rosh! 👋 <br>
+    🔥 27 Year's Old Data Scientist grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: Python, R, Tableau, SQL, Hive ... <br>
+    :notebook: I’m currently learning GPT3.. 😭  <br>
+    :email:	roshansingh313@gmail.com <br>
+    :art: Portfolio: https://singh-roshan.github.io <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/rs03 <br>
+  </samp>
+</p>
